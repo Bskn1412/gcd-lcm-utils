@@ -1,9 +1,16 @@
-# gcd-lcm-util
+# gcd-lcm-utils
 
 It's a tiny utility for calculating **GCD (Greatest Common Divisor)** and **LCM (Least Common Multiple)** of two numbers.  
 Great for math-related projects or whenever you need number theory helpers.
 
 ---
+
+## No.of Downloads
+
+https://img.shields.io/npm/dm/gcd-lcm-utils.svg
+
+---
+
 
 ## Installation
 
