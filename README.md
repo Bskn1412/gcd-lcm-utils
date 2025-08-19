@@ -9,8 +9,6 @@ Great for math-related projects or whenever you need number theory helpers.
 
 ![npm](https://img.shields.io/npm/dm/gcd-lcm-utils.svg)
 
----
-
 
 ## Installation
 
